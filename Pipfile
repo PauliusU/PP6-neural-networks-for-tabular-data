@@ -5,6 +5,12 @@ name = "pypi"
 
 [packages]
 jupyter = "*"
+keras = "*"
+matplotlib = "*"
+numpy = "*"
+sklearn = "*"
+tensorflow-macos = "*"
+xgboost = "*"
 
 [dev-packages]
 
