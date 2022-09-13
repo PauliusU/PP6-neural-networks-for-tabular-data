@@ -4,7 +4,7 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/PauliusU/PP6-neural-networks-for-tabular-data/blob/master/LICENSE)
 
 Practical Project 6 (PP6) for Artificial Intelligence studies to solidify basics of **neural networks for tabular data** by practicing.
-Project aims to improve model from P6 L3 based on ```Boston housing``` dataset. 
+Project aims to improve model from *P6 L3* based on ```Boston housing``` dataset. 
 
 ## Usage
 
@@ -59,4 +59,4 @@ pipenv run jupyter notebook PP6-neural-networks-for-tabular-data.ipynb
   - Add error vs. epoch visualization, decision boundary visualization, regression line visualization. 
   - Or come up with some kind of another improvement on your own (indicate which one).
 - [ ] Provide a small written paragraph (5-10 sentences) of what you have improved in the notebook. 
-- [ ] Provide a link to the notebook (double-check the share options of the notebook) when finished for review and evaluation.
+- [X] Provide a link to the notebook (double-check the share options of the notebook) when finished for review and evaluation.
