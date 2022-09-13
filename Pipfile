@@ -9,7 +9,7 @@ keras = "*"
 matplotlib = "*"
 numpy = "*"
 sklearn = "*"
-tensorflow-macos = "*"
+tensorflow = "*"
 xgboost = "*"
 
 [dev-packages]
